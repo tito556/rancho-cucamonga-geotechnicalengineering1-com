@@ -34,6 +34,6 @@ User-agent: SemrushBot
 Disallow: /
 
 User-agent: AhrefsBot
-Crawl-delay: 10
+Crawl-delay: 5
 
 Sitemap: https://rancho-cucamonga.geotechnicalengineering1.com/sitemap.xml
